@@ -1,8 +1,5 @@
 # multiplayerCardGame
 
-## Author
-Cassiel Jung
-
 ## Programming Language Used
 C++
 
@@ -20,3 +17,6 @@ C++
 3. At every round, each player choose 1 card out of 3 cards on the table to attack or defend
 4. Every player can see other's remaining HP at the end of each round
 5. Same process is repeated for 10 rounds. Game could end early if only one player is left to play
+
+## Author
+Cassiel Jung
