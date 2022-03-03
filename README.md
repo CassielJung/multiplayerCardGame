@@ -18,5 +18,9 @@ C++
 4. Every player can see other's remaining HP at the end of each round
 5. Same process is repeated for 10 rounds. Game could end early if only one player is left to play
 
+### Game Screen
+![image](https://user-images.githubusercontent.com/69894554/156472148-35cb573b-1e56-44f5-9ee6-20c0b785b3e3.png)
+
+
 ## Author
 Cassiel Jung
